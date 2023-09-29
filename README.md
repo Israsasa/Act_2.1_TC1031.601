@@ -1,0 +1,2 @@
+# Act_2.1_TC1031.601
+Implementacion_de_un_ADT_de_estructura_de_datos_lineales
